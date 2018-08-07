@@ -1,1 +1,1 @@
-# Bioinformatics_course_codes
+# The folder cointains codes for the Applied Bioinformatics course 
